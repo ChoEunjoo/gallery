@@ -187,7 +187,7 @@ header .inner .main-menu .item {
 }
 /* FOOTER */
 footer {
-  background-color: #DF6C7E;
+  background-color: #bf6cdf9d;
   opacity: 60%;
   width: 100%;
 }
@@ -196,8 +196,7 @@ footer .notice {
   color: #ffffff;
   font-size: 12px;
   text-align: center;
-  margin: 20px;
-  padding: 20px;
+  padding: 40px;
 }
 
 footer .notice p {

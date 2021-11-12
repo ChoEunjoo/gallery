@@ -167,6 +167,8 @@ header .inner .main-menu .item {
   top: 0;
   bottom: 0;
   margin: auto;
+  border: 4px solid purple;
+  border-radius: 50%;
 }
 
 .visual .cities .city .city-detail {
